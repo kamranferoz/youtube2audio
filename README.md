@@ -11,4 +11,4 @@ The program uses gradio to provide a simple and intuitive user interface. The in
 
 The program is designed to be robust and user-friendly, providing clear error messages and handling exceptions gracefully.
 
-The sample app can be found at [https://youtube2audio.streamlit.app/](https://huggingface.co/spaces/kamranferoz/youtube2audio)https://huggingface.co/spaces/kamranferoz/youtube2audio
+The sample app can be found at https://huggingface.co/spaces/kamranferoz/youtube2audio
