@@ -44,4 +44,4 @@ iface = gr.Interface(fn=download_audio_from_youtube_url,
                      inputs=["text"],  # no longer need the download path input
                      outputs=gr.outputs.File())
 
-iface.launch(share=False)
+iface.launch(share=True)
